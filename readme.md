@@ -1,4 +1,4 @@
-** Clock App with React Native
+## Clock App with React Native
 
 ![alt text](1731305270744.jpg)
 
